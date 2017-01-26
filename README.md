@@ -6,3 +6,7 @@ Contains:
 - Occasional useful figures
 - Explanations
 - Possible exam question types
+
+See:
+- guide.pdf for the document
+- main.tex for the source
